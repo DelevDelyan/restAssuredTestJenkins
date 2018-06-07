@@ -30,5 +30,6 @@ public class getdata {
 		System.out.println("Data is is " + data);
 
 		System.out.println("response time " + resp.getTime());
+		System.out.println("FISNISH");
 	}
 }
