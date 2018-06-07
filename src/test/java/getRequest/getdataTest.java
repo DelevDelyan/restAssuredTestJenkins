@@ -8,7 +8,7 @@ import io.restassured.response.Response;
 
 //https://www.youtube.com/watch?v=aqrxDxumKZQ - URL to the tutorial about RESTAssure framework; In the tutorial there is 8 APIs URLs for test usage.
 
-public class getdata {
+public class getdataTest {
 
 	@Test
 
